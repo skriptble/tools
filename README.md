@@ -3,7 +3,7 @@ Tools for Organizing
 
 - Tools
 
-  The key to effecting organizing a conference is having structure and tools.
+  The key to effectively organizing a conference is having structure and tools.
   Each tool should be focused on a singular task
 - Platforms
 
